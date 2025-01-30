@@ -3,7 +3,7 @@
 
 ---
 
-### 🕵️‍♂️ Bug Hunter | 🐍 Python | 🌐 C | 📱 Aspiring Android Dev | Learning Kotlin
+### 🕵️‍♂️ Bug Hunter | 🐍 Python | 🌐 C | 📱 Aspiring Android Dev | Learning Flutter
 
 ---
 
