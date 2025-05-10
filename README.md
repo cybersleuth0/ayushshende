@@ -3,33 +3,68 @@
 
 ---
 
-### 🕵️‍♂️ Bug Hunter | 🐍 Python | 🌐 C | 📱 Aspiring Android Dev | 🚀 Learning Flutter
+### 📱 Flutter Devloper| 🐍 Python | 🕵️‍♂️ Bug Hunter | 🚀 Building Clean UI | 🔒 Cybersecurity Learner
 
 Hello, I’m Ayush Shende! 👋  
-I'm an aspiring Android Developer currently diving deep into **Kotlin** to build innovative and user-friendly mobile applications. I enjoy crafting clean code and seamless user experiences. On my GitHub, you’ll find everything from simple programming exercises to full-fledged projects that document my learning journey.
+I'm an aspiring **Flutter Developer** on a mission to build pixel-perfect apps with clean architecture, fast performance, and engaging UI/UX. I also have a background in **Python**, **bug hunting**, and backend logic.  
+Actively looking for **Flutter Developer internships** to sharpen my real-world app-building skills.
 
 - 🌍 Based in **India**  
 - ✉️ Reach me at: **[ayushshende83@gmail.com](mailto:ayushshende83@gmail.com)**  
-- 🧠 Currently learning: **Kotlin**
+- 🧠 Currently learning: **Advanced Flutter + Bloc State Management**
 
 ---
 
 ### 🚀 Skills
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-  <a href="https://supabase.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://www.digitalocean.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+#### 💙 Flutter & Dart Stack:
+- Flutter Widgets (Stateless, Stateful, Layout, Forms)
+- State Management (Provider, Cubit, Bloc)
+- Local Storage (Sqflite, SharedPreferences)
+- API Integration (Dio, http)
+- Firebase (Auth, Firestore)
+- Clean Architecture & UI Theming
+
+#### 🧰 Other Tools:
+- Python (Automation, Scripts, Web Scraping)
+- Linux, Git, Bash
+- MySQL, Supabase
+- Adobe Photoshop (UI assets), Heroku, DigitalOcean
+
+---
+
+### 📂 Featured Projects
+
+#### 📱 [Expenso – Expense Tracker](https://github.com/cybersleuth0/Expenso)
+> A modern expense tracker app built with Flutter and Cubit state management.
+
+- 🧾 Add/Edit/Delete transactions, filter by category
+- 💾 Persistent storage using Sqflite
+- 📊 Bar charts and category-wise analysis
+- 📱 Responsive UI with clean design
+
+#### 🧪 [XSS Automation Tool (Python)](https://github.com/cybersleuth0/XSS-Automation)
+> A headless browser automation tool to detect reflected XSS.
+
+- 🌐 Injects payloads from a file
+- 🕵️ Uses Selenium & ChromeDriver in headless mode
+- 🧠 Handles GET & POST request payload delivery
+
+---
+
+### 💼 Resume + Looking For
+
+- 🎯 Actively seeking **Flutter / Android Developer Internships**
+- 🌐 Available for **Remote or On-site (India)** opportunities
+- 📄 [View My Resume (PDF)](https://example.com/your-resume-link)
+
+---
+
+### 📅 GitHub Activity / Stats
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybersleuth0&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cybersleuth0&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersleuth0&layout=compact&theme=radical)
 
 ---
 
@@ -52,14 +87,6 @@ I'm an aspiring Android Developer currently diving deep into **Kotlin** to build
 
 <a href="https://www.x.com/Ayushshende0" target="_blank">
   <img src="https://img.shields.io/twitter/follow/Ayushshende0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow Badge" />
-</a>
-
----
-
-### 🏅 GitHub Stats
-
-<a href="https://github.com/cybersleuth0/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersleuth0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 ---
