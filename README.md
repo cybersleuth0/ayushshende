@@ -1,62 +1,49 @@
-# Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-## My name is Ayush Shende
+# Hi, I'm Ayush Shende 👋
+
+**Flutter Developer | BCA Student | Mobile App Enthusiast**
+
+_Nagpur, India • [LinkedIn](https://linkedin.com/in/ayushshende0) • [GitHub](https://github.com/cybersleuth0) • ayushshende83@gmail.com_
 
 ---
 
-### 📱 Flutter Devloper| 🐍 Python | 🕵️‍♂️ Bug Hunter | 🚀 Building Clean UI | 🔒 Cybersecurity Learner
+## 👨‍💻 About Me
 
-Hello, I’m Ayush Shende! 👋  
-I'm an aspiring **Flutter Developer** on a mission to build pixel-perfect apps with clean architecture, fast performance, and engaging UI/UX. I also have a background in **Python**, **bug hunting**, and backend logic.  
-Actively looking for **Flutter Developer internships** to sharpen my real-world app-building skills.
-
-- 🌍 Based in **India**  
-- ✉️ Reach me at: **[ayushshende83@gmail.com](mailto:ayushshende83@gmail.com)**  
-- 🧠 Currently learning: **Advanced Flutter + Bloc State Management**
+I'm a passionate Flutter developer, currently pursuing my BCA at Manipal University Jaipur. I love crafting high-performance, responsive mobile apps with beautiful UIs and solid, maintainable architectures. My toolkit includes Flutter, Dart, Firebase, and a strong grip on state management (Provider, Bloc, Cubit). I'm always building, learning, and seeking new challenges—especially internships where I can make a real impact!
 
 ---
 
-### 🚀 Skills
+## 🛠️ Technical Skills
 
-#### 💙 Flutter & Dart Stack:
-- Flutter Widgets (Stateless, Stateful, Layout, Forms)
-- State Management (Provider, Cubit, Bloc)
-- Local Storage (Sqflite, SharedPreferences)
-- API Integration (Dio, http)
-- Firebase (Auth, Firestore)
-- Clean Architecture & UI Theming
-
-#### 🧰 Other Tools:
-- Python (Automation, Scripts, Web Scraping)
-- Linux, Git, Bash
-- MySQL, Supabase
-- Adobe Photoshop (UI assets), Heroku, DigitalOcean
+- **Languages:** Dart  
+- **Frameworks:** Flutter, Bloc, Cubit, Provider  
+- **Databases:** Firebase, SQLite  
+- **Tools:** Android Studio, VS Code, Git & GitHub, Postman  
+- **Other:** State Management, API Integration, UI/UX Design, Authentication  
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Projects
 
-#### 📱 [Expenso – Expense Tracker](https://github.com/cybersleuth0/Expenso)
-> A modern expense tracker app built with Flutter and Cubit state management.
+### [Expenso](https://github.com/cybersleuth0/Expenso)
+A cross-platform personal expense tracker built with Flutter, featuring intuitive CRUD operations, dynamic data visualization, and robust transaction filtering.
+- Graphical spending breakdowns by period and category
+- State management with Bloc, offline storage with SQLite
 
-- 🧾 Add/Edit/Delete transactions, filter by category
-- 💾 Persistent storage using Sqflite
-- 📊 Bar charts and category-wise analysis
-- 📱 Responsive UI with clean design
+### [Todo App](https://github.com/cybersleuth0/Todo-App)
+A cross-platform To-Do application with offline-first capabilities, using Cubit for state management and Sqflite for local data storage.
+- Native database integration (C++/C/CMake)
+- Modular and scalable codebase
 
-#### 🧪 [XSS Automation Tool (Python)](https://github.com/cybersleuth0/XSS-Automation)
-> A headless browser automation tool to detect reflected XSS.
+### [Farm2Customer App (In Progress)](https://github.com/cybersleuth0/Farm2Customer-App)
+User authentication module for an app connecting farmers and customers.
+- Firebase Authentication
+- State management with Bloc
 
-- 🌐 Injects payloads from a file
-- 🕵️ Uses Selenium & ChromeDriver in headless mode
-- 🧠 Handles GET & POST request payload delivery
-
----
-
-### 💼 Resume + Looking For
-
-- 🎯 Actively seeking **Flutter / Android Developer Internships**
-- 🌐 Available for **Remote or On-site (India)** opportunities
-- 📄 [View My Resume (PDF)](https://example.com/your-resume-link)
+### [BMI & Tip Calculator](https://github.com/cybersleuth0/BMI-Tip-Calculator)
+A dual-function app with a BMI calculator and a tip calculator.
+- Instant BMI computation & health categorization
+- Real-time per-person bill calculation
+- Clean separation of business logic and UI
 
 ---
 
@@ -68,7 +55,7 @@ Actively looking for **Flutter Developer internships** to sharpen my real-world 
 
 ---
 
-### 🌐 Socials
+### 🌐  Get in Touch
 
 <p align="left">
   <a href="https://github.com/cybersleuth0" target="_blank">
@@ -91,4 +78,4 @@ Actively looking for **Flutter Developer internships** to sharpen my real-world 
 
 ---
 
-> 🚧 Always building. Always learning. Always leveling up.
+_“Building beautiful, reliable apps—one Flutter at a time.”_
