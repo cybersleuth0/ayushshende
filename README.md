@@ -50,7 +50,7 @@ A dual-function app with a BMI calculator and a tip calculator.
 ### 📅 GitHub Activity / Stats
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybersleuth0&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cybersleuth0&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cybersleuth0&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersleuth0&layout=compact&theme=radical)
 
 ---
