@@ -79,3 +79,6 @@ A dual-function app with a BMI calculator and a tip calculator.
 ---
 
 _“Building beautiful, reliable apps—one Flutter at a time.”_
+
+
+<img width="2732" height="1302" alt="image" src="https://github.com/user-attachments/assets/ffdc5ea8-82d7-4df0-b84f-55dca1315b48" />
